@@ -1,0 +1,5 @@
+@import './base.css';
+
+:deep(.el-button) {
+  background-color: silver !important;
+}

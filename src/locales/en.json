@@ -1,0 +1,25 @@
+{
+  "upload": {
+    "upload": "Upload base",
+    "base": "Base",
+    "proxy": "Upload proxy"
+  },
+  "controll": {
+    "start": "Start",
+    "stop": "Stop",
+    "threads": "Threads",
+    "title": "Controll"
+  },
+  "statistic": {
+    "whole": "Lines",
+    "left": "Remaining",
+    "goods": "Goods",
+    "bads": "Bads",
+    "rares": "OGs",
+    "errors": "Errors",
+    "proxy": "Proxies"
+  },
+  "header": {
+    "license": "License"
+  }
+}
