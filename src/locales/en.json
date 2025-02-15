@@ -21,5 +21,12 @@
   },
   "header": {
     "license": "License"
+  },
+  "toasts": {
+    "baseUploadError": "Please upload the base!"
+  },
+  "state": {
+    "iddle": "Iddle",
+    "uploadingBase": "Working with the archive..."
   }
 }
